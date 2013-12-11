@@ -1,3 +1,2 @@
-author :
+workshop :
 rogowskp
-wosinekm
