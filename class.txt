@@ -1,3 +1,1 @@
-This is class for syn-001
-action one
-action two
+This is class for syn-10874
